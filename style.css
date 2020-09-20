@@ -1,8 +1,9 @@
 img {
-    margin: 20px;
+    margin: 0px 20px 20px 20px;
 }
 
-.float-left {
-    float: left;
-    margin: 20px;
+.container {
+    background-color: #abb6c2;
+    margin-top: 20px;
+    color: #000000e6;
 }
