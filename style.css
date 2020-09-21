@@ -8,18 +8,13 @@ img {
     color: #000000e6;
 }
 
-nav .p {
+.centered {
+    display: block;
+    margin: 20px auto;
+}
+
+.foot {
     text-align: center;
-}
-
-@media screen and (max-width: 992px) {
-
-}
-
-@media screen and (max-width: 768px) {
-
-}
-
-@media screen and (max-width: 400px) {
-
+    margin: 5px;
+    color: #000000e6;
 }
