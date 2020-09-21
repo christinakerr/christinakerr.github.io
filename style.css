@@ -7,3 +7,19 @@ img {
     margin-top: 20px;
     color: #000000e6;
 }
+
+nav .p {
+    text-align: center;
+}
+
+@media screen and (max-width: 992px) {
+
+}
+
+@media screen and (max-width: 768px) {
+
+}
+
+@media screen and (max-width: 400px) {
+
+}
