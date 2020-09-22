@@ -1,7 +1,21 @@
-# ResponsivePortfolio
+# Responsive Portfolio
 
-[This is my portfolio,](https://christinakerr.github.io/index.html) which will be a site for me to show off my work to potential employers. The portfolio placeholder images will be filled in as I work on more projects and gain more experience.
+## Deployed
 
-I built the layout of this site using bootstrap, particularly their grid system. This allowed me to make the website responsive without the use of media queries.
+[This is the deployed portfolio.](https://christinakerr.github.io/index.html) 
+
+## Purpose
+
+My portfolio is a site for me to show off my work to potential employers. The portfolio placeholder images will be filled in as I work on more projects and gain more experience.
+
+The site is designed to be responsive to different sized screens.
+
+## Tech
+
+This portfolio leverages:
+* HTML
+* CSS
+* Bootstrap grids
+* Bootstrap components
 
 ![Homepage Screenshot](indexScreenshot.png)
