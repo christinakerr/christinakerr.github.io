@@ -31,3 +31,17 @@ img {
 .contact-box {
     margin: 20px;
 }
+
+.card {
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+
+.card-body {
+    color: white;
+}
+
+.card-img-top {
+    width: 100%;
+    margin: 0 auto;
+}
