@@ -18,4 +18,4 @@ This portfolio leverages:
 * Bootstrap grids
 * Bootstrap components
 
-![Homepage Screenshot](indexScreenshot.png)
+![Homepage Screenshot](images/indexScreenshot.png)
