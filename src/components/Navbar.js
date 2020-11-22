@@ -12,15 +12,20 @@ function Navbar() {
         
             <div className="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul className="navbar-nav mr-auto float-right">
-                    <li className="nav-item">
+                    {/* <li className="nav-item">
                     <NavLink to="/" activeClassName="active">
                         <a className="nav-link">About</a>
                     </NavLink>
-                    </li>
+                    </li> */}
                     
                     <li className="nav-item">
                     <NavLink to="/portfolio" activeClassName="active">
                         <a className="nav-link">Portfolio</a>
+                    </NavLink>
+                    </li>
+                    <li className="nav-item">
+                    <NavLink to="/resume" activeClassName="active">
+                        <a className="nav-link">Resume</a>
                     </NavLink>
                     </li>
                     <li className="nav-item">
