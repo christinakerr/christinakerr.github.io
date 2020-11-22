@@ -1,35 +1,42 @@
 [
     {
         "name": "COVID Road Trip",
-        "image": "covid-road-trip.png",
+        "image": "images/covid-road-trip.png",
         "description": "Plan a roadtrip that avoids coronavirus hotspots.",
         "github": "https://github.com/christinakerr/COVIDRoadTrip",
         "deployed": "https://christinakerr.github.io/COVIDRoadTrip/"
     },
     {
         "name": "CodeTube",
-        "image": "codetube.png",
+        "image": "images/codetube.png",
         "description": "Browse coding tutorials and save your favorites to your personal library.",
         "github": "https://github.com/christinakerr/CodeTube",
         "deployed": "https://codetube-p2.herokuapp.com/"
     },
     {
+        "name": "Weather Dashboard",
+        "image": "images/weather-dashboard.png",
+        "description": "Search for any city in the world and see it's current weather and five dayforecast.",
+        "github": "https://github.com/christinakerr/WeatherDashboard",
+        "deployed": "https://christinakerr.github.io/WeatherDashboard/"
+    },
+    {
         "name": "Workday Scheduler",
-        "image": "workday-scheduler-2.png",
+        "image": "images/workday-scheduler-2.png",
         "description": "Plan your workday with this color-coded web application and save your schedule to local storage.",
         "github": "https://github.com/christinakerr/WorkdayScheduler",
         "deployed": "https://christinakerr.github.io/WorkdayScheduler/"
     },
     {
         "name": "Employee Tracker",
-        "image": "employee-tracker.png",
+        "image": "images/employee-tracker.png",
         "description": "Management can track their employees and departments with this CLI app.",
         "github": "https://github.com/christinakerr/EmployeeTracker",
         "deployed": "https://www.youtube.com/watch?v=VrJqE6CIecM&feature=youtu.be"
     },
     {
         "name": "Note Taker",
-        "image": "note-taker.png",
+        "image": "images/note-taker.png",
         "description": "Stay organized with this note taker app that saves all your notes for later.",
         "github": "https://github.com/christinakerr/NoteTaker",
         "deployed": "https://note-taker-2355498.herokuapp.com/"
