@@ -1,0 +1,55 @@
+/* for the picture of me and the portfolio pics  */
+img {
+    margin: 0px 20px 20px 20px;
+}
+
+/* visibly separating the container from the background  */
+.container {
+    background-color: #abb6c2;
+    margin-top: 20px;
+    color: #000000e6;
+}
+
+/* centering the portfolio images  */
+.centered {
+    display: block;
+    margin: 20px auto;
+}
+
+/* styling the footer  */
+.foot {
+    text-align: center;
+    margin: 5px;
+    color: #000000e6;
+}
+
+/* spacing out the social icons  */
+.socials {
+    margin: 0px 10px;
+}
+
+.contact-box {
+    margin: 20px;
+}
+
+.card {
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+
+.card-body {
+    color: white;
+}
+
+.card-img-top {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.homepage {
+    font-size: large;
+}
+
+h1, h2, .navbar-brand {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
