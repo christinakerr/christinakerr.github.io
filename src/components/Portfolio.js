@@ -12,15 +12,13 @@ function Portfolio() {
                 </div>
             </header>
             <div className="row">
-
-
-                <Project info={projects[0]} />
-                <Project info={projects[1]} />
-                <Project info={projects[2]} />
-                <Project info={projects[3]} />
-                <Project info={projects[4]} />
-                <Project info={projects[5]} />
-
+                {
+                    projects.map(item=>{
+                        return (
+                            <Project info={item} />
+                        )
+                    })
+                }
             </div>
         </main>
     )
