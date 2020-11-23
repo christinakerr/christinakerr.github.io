@@ -45,3 +45,11 @@ img {
     width: 100%;
     margin: 0 auto;
 }
+
+.homepage {
+    font-size: large;
+}
+
+h1, h2, .navbar-brand {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
