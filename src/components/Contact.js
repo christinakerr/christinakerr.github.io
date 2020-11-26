@@ -10,11 +10,11 @@ function Contact() {
         </div>
         <div className="row">
             <div className="col-sm-12 contact-box">
-                <p><a href="https://www.linkedin.com/in/christinakerr/" rel="noreferrer" target="_blank">Linkedin</a></p>
-                <p><a href="https://github.com/christinakerr" rel="noreferrer" target="_blank">GitHub</a></p>
                 <p>Email: christinakerr394@gmail.com</p>
                 <p>Phone: (512) 529-6954</p>
+                <p><a href="https://www.linkedin.com/in/christinakerr/" rel="noreferrer" target="_blank">LinkedIn</a> || <a href="https://github.com/christinakerr" rel="noreferrer" target="_blank">GitHub</a></p>
             </div>
+            
         </div>
     </main>
     )

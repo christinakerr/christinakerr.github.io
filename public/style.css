@@ -42,8 +42,9 @@ img {
 }
 
 .card-img-top {
-    width: 100%;
+    width: 95%;
     margin: 0 auto;
+    margin-top: 10px;
 }
 
 .homepage {
@@ -52,4 +53,9 @@ img {
 
 h1, h2, .navbar-brand {
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+textarea {
+    margin-left: 15px;
+    margin-right: 50px;
 }
