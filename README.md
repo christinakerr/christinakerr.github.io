@@ -2,7 +2,7 @@
 
 ## Deployed
 
-[This is the deployed portfolio.](https://christinakerr.github.io/index.html) 
+[This is the deployed portfolio.](https://christinakerr.github.io/) 
 
 ## Purpose
 
