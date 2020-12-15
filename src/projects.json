@@ -1,5 +1,13 @@
 [
     {
+        "name": "Sushi Junai",
+        "image": "../../images/sushi-junai.png",
+        "description": "For all-you-can-eat customers at Sushi Junai to track the food they order and eat.",
+        "technologies": "Uses JavaScript, React.js, MySQL, Sequelize, Passport.js, Yelp API",
+        "github": "https://github.com/s2hon/sushi-junai",
+        "deployed": "https://sushi-junai.herokuapp.com/"
+    },
+    {
         "name": "COVID Road Trip",
         "image": "../../images/covid-road-trip.png",
         "description": "Plan a road trip that avoids coronavirus hotspots.",
@@ -12,6 +20,14 @@
         "image": "../../images/codetube.png",
         "description": "Browse coding tutorials and save your favorites to your personal library.",
         "technologies": "Uses JavaScript, jQuery, YouTube API, Passport.js, Sequelize.js and MySQL",
+        "github": "https://github.com/christinakerr/Book-Search",
+        "deployed": "https://bookmarked-ck.herokuapp.com/"
+    },
+    {
+        "name": "Bookmarked",
+        "image": "../../images/bookmarked.png",
+        "description": "Browse books and save your favorites for later.",
+        "technologies": "Uses JavaScript, React.js, Google Books API, MongoDB, Mongoose, Express.js, Node.js",
         "github": "https://github.com/christinakerr/CodeTube",
         "deployed": "https://codetube-p2.herokuapp.com/"
     },
@@ -30,21 +46,5 @@
         "technologies": "Uses JavaScript, jQuery and Moment.js",
         "github": "https://github.com/christinakerr/WorkdayScheduler",
         "deployed": "https://christinakerr.github.io/WorkdayScheduler/"
-    },
-    {
-        "name": "Employee Tracker",
-        "image": "../../images/employee-tracker.png",
-        "description": "Management can track their employees and departments with this CLI app.",
-        "technologies": "Uses JavaScript, Node.js, Express.js and MySQL",
-        "github": "https://github.com/christinakerr/EmployeeTracker",
-        "deployed": "https://www.youtube.com/watch?v=VrJqE6CIecM&feature=youtu.be"
-    },
-    {
-        "name": "Note Taker",
-        "image": "../../images/note-taker.png",
-        "description": "Stay organized with this note taker app that saves all your notes for later.",
-        "technologies": "Uses JavaScript, jQuery, Node.js and Express.js",
-        "github": "https://github.com/christinakerr/NoteTaker",
-        "deployed": "https://note-taker-2355498.herokuapp.com/"
     }
 ]
