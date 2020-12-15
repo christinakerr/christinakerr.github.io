@@ -15,7 +15,5 @@ The site is designed to be responsive to different sized screens.
 This portfolio leverages:
 * HTML
 * CSS
-* Bootstrap grids
-* Bootstrap components
-
-![Homepage Screenshot](images/indexScreenshot.png)
+* React.js
+* Bootstrap
