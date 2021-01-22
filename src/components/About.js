@@ -18,10 +18,11 @@ function About() {
                 <div className="col-md-4">
                     <ul className="list-group">
                         <li className="list-group-item list-group-item-darks">Front End</li>
-                        <li className="list-group-item list-group-item-secondary">HTML5 & CSS3</li>
+                        <li className="list-group-item list-group-item-secondary">HTML5, CSS3, JavaScript ES6</li>
                         <li className="list-group-item list-group-item-secondary">React.js</li>
                         <li className="list-group-item list-group-item-secondary">jQuery</li>
-                        <li className="list-group-item list-group-item-secondary">Responsive Design</li>
+                        <li className="list-group-item list-group-item-secondary">Bootstrap & Responsive Design</li>
+
                     </ul>
                 </div>
                 <div className="col-md-4">
@@ -30,16 +31,16 @@ function About() {
                         <li className="list-group-item list-group-item-secondary">Node.js & Express.js</li>
                         <li className="list-group-item list-group-item-secondary">MySQL & Sequelize</li>
                         <li className="list-group-item list-group-item-secondary">MongoDB & Mongoose</li>
-                        <li className="list-group-item list-group-item-secondary">Progressive Web Applications</li>
+                        
                     </ul>
                 </div>
                 <div className="col-md-4">
                     <ul className="list-group">
-                        <li className="list-group-item list-group-item-darks">Other Concepts</li>
+                        <li className="list-group-item list-group-item-darks">Other</li>
                         <li className="list-group-item list-group-item-secondary">Object-Oriented Programming</li>
                         <li className="list-group-item list-group-item-secondary">Agile Software Development</li>
-                        <li className="list-group-item list-group-item-secondary">Linting</li>
-                        <li className="list-group-item list-group-item-secondary">Unit Testing</li>
+                        <li className="list-group-item list-group-item-secondary">RESTful API</li>
+                        <li className="list-group-item list-group-item-secondary">Unit Testing & Jest</li>
                     </ul>
                 </div>
             </div>
