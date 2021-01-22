@@ -10,7 +10,7 @@
     {
         "name": "COVID Road Trip",
         "image": "../../images/covid-road-trip.png",
-        "description": "Plan a road trip that avoids coronavirus hotspots.",
+        "description": "Plan a road trip that avoids coronavirus hotspots. Currently under construction because our Google Maps API free trial expired.",
         "technologies": "Uses JavaScript, jQuery, Mapbox Directions API, Google Maps Geocoding API and Novel CoVID19 API.",
         "github": "https://github.com/christinakerr/COVIDRoadTrip",
         "deployed": "https://christinakerr.github.io/COVIDRoadTrip/"
