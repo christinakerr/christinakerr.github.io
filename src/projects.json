@@ -3,9 +3,9 @@
         "name": "Sushi Junai",
         "image": "../../images/sushi-junai.png",
         "description": "For all-you-can-eat customers at Sushi Junai to track the food they order and eat.",
-        "technologies": "Uses JavaScript, React.js, MySQL, Sequelize, Passport.js, Yelp API",
-        "github": "https://github.com/s2hon/sushi-junai",
-        "deployed": "https://sushi-junai.herokuapp.com/"
+        "technologies": "Uses React.js",
+        "github": "https://github.com/sushi-junai-atx/sushi-junai-atx-official",
+        "deployed": "https://sushi-junai.app/dinein"
     },
     {
         "name": "COVID Road Trip",
